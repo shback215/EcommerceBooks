@@ -6,36 +6,38 @@ const BookApi = () => {
   const [error, setError] = useState(null);
 
   const fetchBooks = async () => {
-    console.log('fetchBooks called');
     setLoading(true);
     setError(null);
     
     try {
-      console.log('Making request to http://localhost:3001/api/books');
-      const response = await fetch('http://localhost:3001/api/books', {
-        method: 'GET',
-        headers: {
-          'Content-Type': 'application/json',
+      // Mock data for now
+      const books = [
+        {
+          id: 1,
+          title: "When the Dogwood Blooms: Seasons in a Boy's Life",
+          author: "Stanley B. Howard",
+          description: "Though not a Homeric odyssey, this a fictionalized life journey, told as only the traveller could tell it.",
+          amazonLink: "https://www.amazon.com/When-Dogwood-Blooms-Seasons-Boys-ebook/dp/B0BSNQ5T1L"
         },
-      });
+        {
+          id: 2,
+          title: "Icarus: An American Odyssey", 
+          author: "Stanley B. Howard",
+          description: "A history-based American Odyssey told by the raven friend of Edgar Allan Poe and Ulysses S. Grant.",
+          amazonLink: "https://www.amazon.com/Icarus-American-Stanley-B-Howard-ebook/dp/B0BW4LQNN1"
+        },
+        {
+          id: 3,
+          title: "Me: Jack in the Box with OCD", 
+          author: "Stanley B. Howard",
+          description: "A story of pure-O OCD and how it affects daily life.",
+          amazonLink: "https://www.amazon.com/Me-Jack-Stanley-B-Howard-ebook/dp/B0G2KDVWZ7"
+        }
+      ];
       
-      console.log('Response received:', response.status);
-      
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      
-      const result = await response.json();
-      
-      // Parse the body JSON string to get the books data
-      const parsedData = JSON.parse(result.body);
-      const booksData = parsedData.books;
-      
-      console.log('Books data:', booksData);
-      setBooks(booksData);
+      setBooks(books);
     } catch (err) {
-      console.error('Fetch error:', err);
-      setError(`Failed to fetch: ${err.message}`);
+      setError(err.message);
     } finally {
       setLoading(false);
     }
@@ -59,7 +61,7 @@ const BookApi = () => {
         </div>
       )}
       
-      {books && books.length > 0 ? (
+      {books.length > 0 ? (
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '20px' }}>
           {books.map((book) => (
             <div key={book.id} style={{ 

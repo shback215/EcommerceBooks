@@ -26,6 +26,7 @@ function AboutDogwood() {
         and a same-aged young woman also from a city in the East. The young man was an aspiring artist; and she hoped to 
         become a chef, though she found work in the soon-to-be ghost town as a barmaid.
         </p>
+        <br></br>
         <p className="bullet-item-justify">&bull; <i>A Year in the Valley</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Year-Valley-Chapter-Dogwood-Chapters/dp/B0BW2RY35C">A Year in the Valley</a>.
         This book begins with Ray working in a large home improvement store in North Dallas when he is offered a job in a 
@@ -37,7 +38,9 @@ function AboutDogwood() {
         cowboy wannabes or rodeo people in the community, both Angloes such as the son of the football coach as well as Mexican Americans, such
         as a Donna businessman who built an arena behind his house for weekend rodeos. Despite his popularity with some of the students and reporting on 
         football games for the newspaper in the largest city in the Valley, McAllen, Ray had a rough go of it, especially with the 
-        high school principal who regularly scowled into the window of his classroom, and in spite of the support of the vice principal.</p>
+        high school principal who regularly scowled into the window of his classroom, and in spite of the support of the vice principal.
+        </p>
+        <br></br>
         <p className="bullet-item-justify">&bull; <i>The Big Time Newspaper Man</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Big-Time-Newspaper-Man-Chapter-Chapters-ebook/dp/B0BTY9W2SL">The Big Time Newspaper Man</a>.
         This chapter follows Ray to Waco, where he had spent many childhood and teenaged years at his paternal grandparents' house, often attending the morning
@@ -49,16 +52,61 @@ function AboutDogwood() {
         to read the comics before the family left for church and the Sunday lunch after the morning service at a restaraunt such as the Elite where they were 
         often waited on by a tuxedoed waiter with a pencil-thin mostache and a wooden hand but could still carry a tray of drinks and food adroitly. Despite
         finally landing a coveted full-time job as a journalist, Ray again found himself in a career rut, writing mundane stories about local events and 
-        struggling to find his voice as a writer, with a city editor who was skeptical of the potential of an English major journalist.</p>
+        struggling to find his voice as a writer, with a city editor who was skeptical of the potential of an English major journalist.
+        </p><br></br>
         <p className="bullet-item-justify">&bull; <i>Shanties Never Sung</i>: This book is available
-        at <a target="_blank" href="https://www.amazon.com/Shanties-Never-Sung-Chapter-Chapters-ebook/dp/B0BTYGB85B">Shanties Never Sung</a>
-        </p>
+        at <a target="_blank" href="https://www.amazon.com/Shanties-Never-Sung-Chapter-Chapters-ebook/dp/B0BTYGB85B">Shanties Never Sung</a>.
+        This story tells of Ray's time as a submarine Sonar tech in the US Navy. These experiences were formative for him, as he learned about discipline, 
+        teamwork, and the importance of following orders, though he soon realized that the Navy was not for him. This revelation came early in his naval career
+        after serving under a division officer more intent on serving himself, it seemed to Ray, than lifting up those whose lives he controlled, though the
+        Sonar tech in his division who had an English degree other than than a BS in engineering, stayed in this safe port of employment for a decade before 
+        venturing back intohe uncertainty and more cold heartedness of the civilian world. He eventually found his calling in writing and storytelling, despite 
+        a dearth of acclaim and recognition. These naval experiences incuded a trip to the North Pole where he hiked around the submarine that had taken him
+        and other Americans of non-Scandanavian birth so far north and plunged up through the ice cap still unmelted almost half a century prior to his
+        telling of this spring visit. These travels included trips to the western Pacific to island such as Guam and the Philippines where on a trip one spring night
+        from Subic Bay to Manila Bay he witnessed an Easter celebration when an almost naked Christ figure adorned in black ash and a white skeleton drawn
+        on to his almost naked sinewy body was pursued from the double wooden doors of a cathedral half a millenia old by a mob bearing palm tree branches,
+        a few days in the port of Mombasa on the green eastern coast of Africa, the blue Bosporus in Turkey for a mock invasion with NATO allies, and other exotic 
+        places seen by few but the one percent, who dined on tables adorned with white linen table clothes and crystal glasses, provided
+        rich material for his writing. Even so, despite these adventures, his writing garnered little recognition or interest from agents and 
+        conventional publishers of others like Ernest Hemingway and Jack London. These entities, he sometimes consoled himself, were primarily interested with enriching themselves
+        rather than writers who needed their help. Nonetheless, he found his voice, though to an undevoted and meager audience, by publishing on Amazon Books. But for 
+        some, hope does spring eternal; and Ray vowed to never give up on his dream of becoming a widely-read author.</p>
+        <br></br>
         <p className="bullet-item-justify">&bull; <i>Five Stories on a Summer Night</i>: This book is available
-        at <a target="_blank" href="https://www.amazon.com/Five-Stories-Summer-Night-Chapters-ebook/dp/B0BTYJ1YFH">Five Stories on a Summer Nighe</a>
+        at <a target="_blank" href="https://www.amazon.com/Five-Stories-Summer-Night-Chapters-ebook/dp/B0BTYJ1YFH">Five Stories on a Summer Night</a>.
+        This chapter contains five related short stories that some critics might describe as venturing into the supernatural. The first of these stories,
+        "Kiss in a Yellow Taxi," is a ghost story of sorts told within two other stories. The other four stories might more accurately be described as
+        adult camp fire stories if not stories comparable to those by other writers such as Clive Barker or Steven King, though certainly tamer
+        if not less disturbing than many might find the writing of other such well-read authors. The first of these stories, "Kiss in a Yellow Taxi," 
+        is a ghost story of sorts told within two other stories, which is presented as one of the stories Ray submitted to a creative writing class 
+        at a junior college in San Diego. This elaborate story, centered around a poor Guatemalan farmer seeking gold in shark-infested caves, is based on
+        a ghost story Ray heard one summer night when he was ten years old that was told by a girl down the street in San Antonio, whose grandmother was
+        from Guatemala. This story is juxtaposed with a June wedding in San Diego and an auburn-haired girl a decade younger than Ray who was another 
+        student in Ray's class. The second story, set in the Valley of Texas, where Ray once taught science at a high school, is based on the sombrero 
+        and pistolero-adorned cartoonishly-drawn bandito that is a popular figure in Mexican forklore, seen most often on days such as the Day of the 
+        Dead. The third story is centered around Americans obession with weight, told in a manner similar to that of a tabloid newspaper. The fourth 
+        story follows such a vein but with a different tone and style, centering on humans obsessive interest in physical appearance and deformities 
+        of the body. The last of the five stories in this chapter follows this obesssion further in a carnival show settings with a tale about 
+        a supposedly headless woman.
         </p>
+        <br></br>
         <p className="bullet-item-justify">&bull; <i>AKA Jake Spelled Jaak</i>: This book is available
-        at <a target="_blank" href="https://www.amazon.ca/AKA-Jake-Spelled-Jaak-Chapter/dp/B0BW2VKLD4">AKA Jake Spelled Jaak</a>
+        at <a target="_blank" href="https://www.amazon.ca/AKA-Jake-Spelled-Jaak-Chapter/dp/B0BW2VKLD4">AKA Jake Spelled Jaak</a>. This chapter is the story
+        of an eternally young man, whose real name was Martin, who tried to find his place in the world as a photojournalist, philosopher, and social engineer,
+        while dealing with his own demons. These burdens were fueled an inability to conform to the norms of society. His way of dealing with this
+        was with constant indulgence in alcohol, marijuana, and tobacco. Besides his nonstop substance abuse, this inablity to conform was exemplified by his creating
+        his own nickname, for which he created his own spelling of this name, Jaak, for Jake, that he bestowed upon himself. Though now several years after his premature death,
+        hastened by alcohol and other substances, he is probably forgotten by most who knew him. Neverthless despite a relationship with Ray and his wife Natania 
+        that only lasted two years, he left a lasting impression on them. This was perhaps because, unlike most who try their best to conform, of his refusal 
+        or inablity to submit to the norms of society and his unrelenting allowing the winds of life to blow him to wherever it might for the 53 years his life. 
+        This life roamed from Staten Island to Okinawa in the US Marine Corp after brief careers as a stock broker wannabe in San Franisco and then to a stint 
+        in Germany where he tried to be a phojournalist. Though this chapter contains two short stories, one of which Jaak inspired Ray to write and another supposedly 
+        written by Martin, aka Jaak, about a segment of the ex-Marine Jaak's life. Even so, this chapter novel is a tribute to the memory of Martin, or Jaak. This memory 
+        began the day he stepped off a plane in from Munich at Dulles to await three boxes that held all of his camara and computer equipment, after making 
+        an online acquaintance with Natania a year before. This friendship ended two years later at the VA hospotal in Washington DC.
         </p>
+        <br></br>
         <p className="bullet-item-justify">&bull; <i>Homecoming for Tex</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Homecoming-Tex-Chapter-Dogwood-Chapters-ebook/dp/B0BV21RQRM">Homecoming for Tex</a>
         </p>
